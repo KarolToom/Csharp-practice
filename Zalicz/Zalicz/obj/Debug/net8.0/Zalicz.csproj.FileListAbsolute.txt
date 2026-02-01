@@ -1,0 +1,14 @@
+D:\Uczelniane\Programowanie obiektowe\Zalicz\Zalicz\bin\Debug\net8.0\Zalicz.exe
+D:\Uczelniane\Programowanie obiektowe\Zalicz\Zalicz\bin\Debug\net8.0\Zalicz.deps.json
+D:\Uczelniane\Programowanie obiektowe\Zalicz\Zalicz\bin\Debug\net8.0\Zalicz.runtimeconfig.json
+D:\Uczelniane\Programowanie obiektowe\Zalicz\Zalicz\bin\Debug\net8.0\Zalicz.dll
+D:\Uczelniane\Programowanie obiektowe\Zalicz\Zalicz\bin\Debug\net8.0\Zalicz.pdb
+D:\Uczelniane\Programowanie obiektowe\Zalicz\Zalicz\obj\Debug\net8.0\Zalicz.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uczelniane\Programowanie obiektowe\Zalicz\Zalicz\obj\Debug\net8.0\Zalicz.AssemblyInfoInputs.cache
+D:\Uczelniane\Programowanie obiektowe\Zalicz\Zalicz\obj\Debug\net8.0\Zalicz.AssemblyInfo.cs
+D:\Uczelniane\Programowanie obiektowe\Zalicz\Zalicz\obj\Debug\net8.0\Zalicz.csproj.CoreCompileInputs.cache
+D:\Uczelniane\Programowanie obiektowe\Zalicz\Zalicz\obj\Debug\net8.0\Zalicz.dll
+D:\Uczelniane\Programowanie obiektowe\Zalicz\Zalicz\obj\Debug\net8.0\refint\Zalicz.dll
+D:\Uczelniane\Programowanie obiektowe\Zalicz\Zalicz\obj\Debug\net8.0\Zalicz.pdb
+D:\Uczelniane\Programowanie obiektowe\Zalicz\Zalicz\obj\Debug\net8.0\Zalicz.genruntimeconfig.cache
+D:\Uczelniane\Programowanie obiektowe\Zalicz\Zalicz\obj\Debug\net8.0\ref\Zalicz.dll
